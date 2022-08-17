@@ -26,9 +26,9 @@ void main (){
   
   info = aprovado ? "Aprovado!!!" : "Reprovado...";
   print(info);
-
   //outro modo de utilizar condição
   //Operador Ternario
+
   double nota1 = 3;
   String mensagem = nota1 >= 5 ? 'Aprovado' : 'Reprovado';
   //se a nota for maior igual a 5 ela ira exibir aprovado se nao reprovado
